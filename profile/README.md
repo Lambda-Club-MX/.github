@@ -26,7 +26,8 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
 |    TESE    | TESE                                 |  EDOMEX  |
 |            |                                      |          |
 
-## Community Leaders
+## Communidad
+### Community Leaders
 <table align="center">
   <tr align="center">
     <td>
@@ -155,11 +156,11 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
 </table>
 
 ---
-**College Leaders**
+### College Leaders
 <table align="center">
   <tr align="center">
     <td>
-      <strong>Anahi Sanabria</strong>
+      <strong>Anahi SU</strong>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/anahi_s.u">
@@ -174,6 +175,26 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
         <a href="https://www.linkedin.com/in/anah%C3%AD-sanabria-ugarte-5225a0211/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Ixchel</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/ixe.exe/">
+          <img src="https://avatars.githubusercontent.com/u/78711072?v=4"  height="120" alt="ixe.exe">
+        </a>
+      </p>
+      <p align="center">
+        TESE<br>College Lead λ Club Mx<br>
+        <br><strong>EDOMEX, México</strong><br>
+        <br>
+        <a href="https://github.com/ixcheleh">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/ixchel-eh/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
