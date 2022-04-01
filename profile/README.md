@@ -48,14 +48,14 @@
       <p align="center">
         <br>
         <a href="https://www.instagram.com/marce.ortizam/">
-          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGeUu6atCVOWA/profile-displayphoto-shrink_800_800/0/1626629483465?e=2147483647&v=beta&t=EXQ6DAM-U7MGeVn-haFKnFCP-pDEWh4GvUGVov8hik0"  height="120" alt="Marce Ortiz">
+          <img src="https://avatars.githubusercontent.com/u/63885639?v=4"  height="120" alt="Marce Ortiz">
         </a>
       </p>
       <p align="center">
         UANL<br>Co-founder λ Club Mx<br>
         <br><strong>CDMX, México</strong><br>
         <br>
-        <a href="https://github.com/">
+        <a href="https://github.com/Marce0a">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
         <a href="https://www.linkedin.com/in/marcela-ortiz-881871203/">
