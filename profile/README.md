@@ -1,4 +1,30 @@
-# Conectando estudiantes y compartiendo conocimiento.
+# λ Club
+## "Conectando estudiantes y compartiendo conocimiento"
+Es una comunidad construida por estudiantes y para estudiantes, con la finalidad de participar en actividades educativas y brindar oportunidades de crecimiento con un enfoque en la formación de profesionales en el área tecnológica.
+
+¿Quieres saber mas de la comunidad? <br>Visita nuestra [Página Oficial](https://lambda-club.com)
+
+Síguenos en nuestras redes sociales **@lambdaclubmx**
+- [Facebook: Lambda Club](https://www.facebook.com/lambdaclubmx)
+- [Instagram: @lambdaclubmx](https://instagram.com/lambdaclubmx)
+- [Twitter: @lambdaclubmx](https://twitter.com/lambdaclubmx)
+- [GitHub: Lambda-Club-MX](https://github.com/Lambda-Club-MX)
+
+## ¡Únete!
+Para ser parte de λ Club te pedimos que leas el documento siguiente en donde se detallan las normas que deben cumplir los miembros de la comunidad, así como los medios por los cuáles es posible reportar incidentes, y las consecuencias de esto:<br>
+[Código de Conducta](https://gist.github.com/JPYamamoto/1259b7d4d069b4d2d6acbed860bd4c32)
+
+Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Discord!**<br>
+[Discord λ Club](https://discord.gg/FsDtbxgECX)
+
+## Escuelas/Universidades
+|Escuela     |      Facultades                      |  Estado  |
+|------------|--------------------------------------|----------|
+|    IPN     |- ESCOM<br> - UPIITA<br> - ESIME      |   CDMX   |
+|    UNAM    |- Ciencias, CU<br> - Ingenieria, CU   |   CDMX   |
+|    UANL    | FIME                                 |Nuevo Leon|
+|    TESE    | TESE                                 |  EDOMEX  |
+|            |                                      |          |
 
 ## Community Leaders
 <table align="center">
@@ -53,7 +79,7 @@
       </p>
       <p align="center">
         UANL<br>Co-founder λ Club Mx<br>
-        <br><strong>CDMX, México</strong><br>
+        <br><strong>N.L. , México</strong><br>
         <br>
         <a href="https://github.com/Marce0a">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
@@ -129,3 +155,28 @@
 </table>
 
 ---
+**College Leaders**
+<table align="center">
+  <tr align="center">
+    <td>
+      <strong>Anahi Sanabria</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/anahi_s.u">
+          <img src="https://avatars.githubusercontent.com/u/81058245?v=4"  height="120" alt="AnahiSU">
+        </a>
+      </p>
+      <p align="center">
+        La Salle<br>College Lead λ Club Mx<br>
+        <br><strong>Cochabamba, Bolivia</strong><br>
+        <br>
+        <a href="https://github.com/AnahiSU">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/anah%C3%AD-sanabria-ugarte-5225a0211/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table
