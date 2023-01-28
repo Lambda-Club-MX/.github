@@ -199,5 +199,25 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
         </a>
       </p>
     </td>
+    <td>
+      <strong>Ale P. Castillo</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/ixe.exe/">
+          <img src="https://avatars.githubusercontent.com/u/7855169?v=4"  height="120" alt="ixe.exe">
+        </a>
+      </p>
+      <p align="center">
+        UAM<br>College Lead λ Club Mx<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/aleepsy">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/apcastillo/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table
