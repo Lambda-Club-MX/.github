@@ -203,8 +203,8 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
       <strong>Ale P. Castillo</strong>
       <p align="center">
         <br>
-        <a href="https://www.instagram.com/ixe.exe/">
-          <img src="https://avatars.githubusercontent.com/u/7855169?v=4"  height="120" alt="ixe.exe">
+        <a href="https://www.instagram.com/_aleepsy">
+          <img src="https://avatars.githubusercontent.com/u/7855169?v=4"  height="120" alt="_aleepsy">
         </a>
       </p>
       <p align="center">
@@ -215,6 +215,108 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
         <a href="https://www.linkedin.com/in/apcastillo/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Jessica Escobedo</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/jesscobedo7">
+          <img src="https://avatars.githubusercontent.com/u/68572025?v=4"  height="120" alt="nik.oding">
+        </a>
+      </p>
+      <p align="center">
+        UAM<br>College Lead λ Club Mx<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/jesscobedo9">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/jesscobedo7">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <strong>Gustavo López</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/sug.lg">
+          <img src="https://avatars.githubusercontent.com/u/64446965?v=4"  height="120" alt="sug.lg">
+        </a>
+      </p>
+      <p align="center">
+        IPN<br>College Lead λ Club Mx<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/guslg325">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/gustavo-lopez-g">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+  <td>
+      <strong>Ivan QM</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/ivanqmx">
+          <img src="https://avatars.githubusercontent.com/u/38355696?v=4"  height="120" alt="ivanqmx">
+        </a>
+      </p>
+      <p align="center">
+        IPN<br>College Lead λ Club Mx<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/IvanQMX">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/ivanqmx">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Oscar Villa</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/oscarjvilla">
+          <img src="https://avatars.githubusercontent.com/u/78701814?v=4"  height="120" alt="oscarjvilla">
+        </a>
+      </p>
+      <p align="center">
+        UNAM<br>College Lead λ Club Mx<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/OscarJ290">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="#">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Niko</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/nik.oding">
+          <img src="https://avatars.githubusercontent.com/u/92340354?v=4"  height="120" alt="nik.oding">
+        </a>
+      </p>
+      <p align="center">
+        IPN<br>College Lead λ Club Mx<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/NikoMagafi">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/nicolaschavezc">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
