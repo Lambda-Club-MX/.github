@@ -168,7 +168,7 @@ Una vez leido el código de conducta y estar de acuerdo con el, **¡Únete a Dis
         </a>
       </p>
       <p align="center">
-        La Salle<br>College Lead λ Club Mx<br>
+        UMSS<br>College Lead λ Club Mx<br>
         <br><strong>Cochabamba, Bolivia</strong><br>
         <br>
         <a href="https://github.com/AnahiSU">
